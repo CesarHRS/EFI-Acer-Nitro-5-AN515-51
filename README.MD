@@ -16,7 +16,7 @@
 |    **WI-FI**     | [ Intel(R) Dual Band Wireless-AC 72625]          |
 |    **SMBIOS**    | [ MacbookPro14,3 ]                               |
 |    **MacOS**     | [ Monterey - 12.3.1 ]                            |
-|   **Opencore**   | [ 0.7.8 ]                                        |
+|   **Opencore**   | [ 0.8.0 ]                                        |
 
 
 ## BIOS Setting
