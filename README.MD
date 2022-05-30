@@ -2,7 +2,7 @@
 # Hackintosh
 # EFI Acer Nitro 5 (model: A515-51)
 
-### Currently Running On MacOS Monterey 12.3.1 
+### Currently Running On MacOS Monterey 12.4
 
 
 ## Hardware - Hackintosh Config
